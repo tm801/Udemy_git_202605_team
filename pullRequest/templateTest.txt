@@ -1,1 +1,5 @@
-templateTest.txt
+プルリクのテンプレ確認
+
+reviewer 機能の確認
+
+レビュー
